@@ -1,0 +1,10 @@
+First fail was on emptySet_testIsEmpty method. I set the breakpoint on testIsEmpty method and began the debugging.
+I found the logical error in isEmpty method in ArraySet.java class and fixed it in order to pass the test.
+
+Second bug I found was in emptySet_addA_A_testIsEmpty and I set the breakpoint on testIsEmpty method and after 
+going through step by stem, I found that rear variable is still 0 even when the setArray contains the element on 
+method add() in the ArraySet.java. 
+
+Third bug I found was on A_addB_AB_testRemoveA test. I set the breakpoint on testRemove method. After going through
+each step there was logical error on remove method on ArraySet.java causing setArray to go out of bounds.
+This bug was fixed by correcting the logic.

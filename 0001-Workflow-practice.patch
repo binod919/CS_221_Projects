@@ -1,0 +1,19 @@
+From b4f95b9c00a6c5424fe3d420c1039abf5ded0011 Mon Sep 17 00:00:00 2001
+From: Binod Karki <binodkarki@u.boisestate.edu>
+Date: Tue, 18 Sep 2018 00:44:39 -0600
+Subject: [PATCH] Workflow practice
+
+---
+ backpack/CS-HU250-1-f18/workflow-practice/binodkarki.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/backpack/CS-HU250-1-f18/workflow-practice/binodkarki.txt b/backpack/CS-HU250-1-f18/workflow-practice/binodkarki.txt
+index cff0b83..0b6bc51 100644
+--- a/backpack/CS-HU250-1-f18/workflow-practice/binodkarki.txt
++++ b/backpack/CS-HU250-1-f18/workflow-practice/binodkarki.txt
+@@ -1 +1 @@
+-This patch will work!
++This patch must work!
+-- 
+2.18.0-rc1
+
